@@ -22,14 +22,17 @@ To get started with this repository, follow these steps:
 
 The repository includes a wide range of commonly used data structures, such as:
 
-- Linked List
-- Stack
-- Queue
-- Tree
-- Heap
-- Hash Table
-- Graph
-- and more!
+```
+Data Structures
+ └── Linked List
+ └── Stack
+ └── Queue
+ └── Tree
+ └── Heap
+ └── Hash Table
+ └── Graph
+ └── and more!
+```
 
 Each data structure comes with a detailed explanation of its properties, operations, and use cases.
 
@@ -37,19 +40,25 @@ Each data structure comes with a detailed explanation of its properties, operati
 
 The repository covers various algorithms, including:
 
-- Sorting algorithms
-    - Bubble Sort
-    - Merge Sort
-    - Quick Sort
-- Searching algorithms
-    - Binary Search
-- Graph algorithms
-    - Depth-First Search
-    - Breadth-First Search
-- Dynamic Programming algorithms
-    - Fibonacci Series
-    - Knapsack Problem
-- and many others!
+```
+Algorithms
+ └── Sorting algorithms
+     |
+     ├──  Bubble Sort
+     ├──  Merge Sort
+     ├──  Quick Sort
+ └── Searching algorithms
+     |
+     ├──  Binary Search
+ └── Graph algorithms
+     |
+     ├──  Depth-First Search
+     ├──  Breadth-First Search
+ └── Dynamic Programming algorithms
+     ├──  Fibonacci Series
+     ├──  Knapsack Problem
+ └── and many others!
+```
 
 Each algorithm is thoroughly explained, including its algorithmic complexity and step-by-step execution.
 
