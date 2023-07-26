@@ -24,6 +24,7 @@ The repository includes a wide range of commonly used data structures, such as:
 
 ```
 Data Structures
+ └── Arrays
  └── Linked List
  └── Stack
  └── Queue
